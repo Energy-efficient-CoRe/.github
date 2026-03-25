@@ -1,6 +1,6 @@
 <div align="center">
 
-# Energy-efficient-CoRe
+# E-CoRe
 
 ### Advancing Energy-Efficient Computing Research
 
