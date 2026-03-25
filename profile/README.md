@@ -12,61 +12,64 @@
 
 ---
 
-## Who We Are
+## Overview
 
-**Energy-efficient-CoRe** is an academic and engineering community focused on building the next generation of **energy-aware, high-performance, and sustainable computing systems**.
+**E-CoRe (Energy-efficient Computing Research)** is an interdisciplinary academic and engineering initiative dedicated to the design and development of **energy-aware, high-performance, and sustainable computing systems**.
 
-We combine theory, systems, and practical tooling to reduce energy consumption across software and hardware stacks while preserving reliability and performance.
+Our work bridges theoretical foundations, system-level design, and practical tooling to reduce energy consumption across the computing stack, while maintaining reliability, scalability, and performance.
 
-## What We Work On
+## Research Focus
 
-- ⚡ **Energy-efficient architectures** for modern workloads  
-- 🧠 **AI/ML systems optimization** for lower power and carbon cost  
-- 🧩 **Compiler and runtime techniques** for sustainable execution  
-- 🌍 **Green software engineering** methods, metrics, and best practices  
-- 📊 **Benchmarking and reproducibility** for fair energy evaluation  
+Our activities span multiple domains within sustainable computing, including:
 
-## Our Mission
+- ⚡ **Energy-efficient system architectures** tailored for modern and heterogeneous workloads  
+- 🧠 **Optimization of AI and machine learning systems** to minimize energy and carbon footprint  
+- 🧩 **Compiler and runtime innovations** enabling energy-aware execution  
+- 🌍 **Green software engineering** methodologies, metrics, and best practices  
+- 📊 **Benchmarking, evaluation, and reproducibility** for rigorous energy measurement  
 
-To make energy efficiency a first-class design goal in computing by delivering:
+## Mission
 
-- rigorous research,
-- open collaboration,
-- and real-world impact.
+Our objective is to establish energy efficiency as a primary design principle in computing systems. This is achieved through:
 
-## Publications & Outputs
+- rigorous and reproducible research,  
+- open and collaborative development practices,  
+- and measurable real-world impact.  
 
-We regularly publish technical reports, papers, and open-source artifacts.
+## Publications and Research Outputs
 
-- 📚 [View Publications](https://e-core.nws.cs.unibo.it/)
-- 🧪 [Research Artifacts](https://e-core.nws.cs.unibo.it/)
-- 🎤 [Talks & Presentations](https://e-core.nws.cs.unibo.it/)
+We actively disseminate our work through peer-reviewed publications and open research artifacts.
 
-## Collaboration
+- 📚 [Publications](https://e-core.nws.cs.unibo.it/)  
+- 🧪 [Research Artifacts](https://e-core.nws.cs.unibo.it/)  
+- 🎤 [Talks and Presentations](https://e-core.nws.cs.unibo.it/)  
 
-We welcome collaboration with:
+## Collaboration Opportunities
 
-- researchers,
-- industry partners,
-- and students interested in sustainable computing.
+We engage with a broad community of stakeholders, including:
 
-If you are interested in a joint project, dataset, or internship opportunity, reach out via:
+- academic researchers,  
+- industry practitioners,  
+- and students interested in sustainable computing.  
 
-- ✉️ **Email:** [e-core@unibo.it](mailto:e-core@unibo.it)
-- 🌐 **Website:** [https://e-core.nws.cs.unibo.it/](https://e-core.nws.cs.unibo.it/)
+We welcome collaborations on joint research projects, datasets, internships, and applied initiatives.
 
-## Community & Contribution
+- ✉️ **Email:** [e-core@unibo.it](mailto:e-core@unibo.it)  
+- 🌐 **Website:** [https://e-core.nws.cs.unibo.it/](https://e-core.nws.cs.unibo.it/)  
 
-We value respectful, inclusive, and reproducible collaboration.
+## Community and Contributions
 
-- Start by checking repository-specific contribution guides  
-- Open an issue for ideas, bug reports, or discussions  
-- Submit pull requests with clear context and reproducible results  
+We promote an open, inclusive, and scientifically rigorous collaboration environment.
 
+- Review repository-specific contribution guidelines before contributing  
+- Use issues to propose ideas, report bugs, or initiate discussions  
+- Submit pull requests with clear documentation and reproducible results  
+
+---
 
 <div align="center">
 
-**Energy-efficient-CoRe**  
-Sustainable Computing for a Better Digital Future
+**E-CoRe**  
+Sustainable Computing for a Responsible Digital Future
 
 </div>
